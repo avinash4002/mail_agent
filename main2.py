@@ -256,7 +256,7 @@ class EmailAutomationCrew:
             
             Personal Info for contact:
             - Name: Avinash Tiwari
-            - mobile: +91 8299661089
+            - mobile: phone number not provided
             - linkedin: https://www.linkedin.com/in/avinash-tiwari-bba572278/
             - github: https://github.com/avinash4002
             
