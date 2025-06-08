@@ -1,0 +1,15 @@
+# requirements.txt - Install these packages
+crewai
+crewai-tools
+langchain-google-genai
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+requests
+beautifulsoup4
+PyPDF2
+pdfplumber
+pathlib
+secure-smtplib
+yagmail
